@@ -6,4 +6,4 @@
 
 `cd DUMP`
 
-`python FILE-DUMP.py`
+`python DUMP-FILE.py`
