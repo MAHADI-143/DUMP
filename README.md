@@ -2,6 +2,7 @@
 
 ## 64 BIT WORKING AND UPDATE DUMP TOOL
 `rm -rf DUMP`
+
 ````git clone https://github.com/MAHADI-143/DUMP.git````
 
 `cd DUMP`
