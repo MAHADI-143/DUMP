@@ -1,5 +1,14 @@
 ## FILE DUMPING UPDATE TOOL
-## 64/32 BIT WORKING
+
+## 64 BIT WORKING AND UPDATE DUMP TOOL
+`rm -rf DUMP`
+````git clone https://github.com/MAHADI-143/DUMP.git````
+
+`cd DUMP`
+
+`python FILE-DUMP.py`
+
+## 33 BIT WORKING AND OLD UPDATE DUMP TOOL
 `rm -rf DUMP`
 
 `git clone https://github.com/MAHADI-143/DUMP.git`
