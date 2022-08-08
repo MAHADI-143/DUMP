@@ -1,6 +1,30 @@
-import os, sys
-try:
-    __import__("DUMP").__login()
-except Exception as e:
-    exit(str(e))
+import os, platform
  
+try:
+ 
+        import requests
+ 
+except:
+ 
+        os.system('pip2 install requests')
+ 
+ 
+ 
+import requests
+ 
+bit = platform.architecture()[0]
+ 
+if bit == "64bit":
+ 
+        from DUMP import __login
+ 
+        __login()
+ 
+ 
+ 
+elif bit == "32bit":
+ 
+        from DUMP32 import __login
+ 
+ 
+        __login()
