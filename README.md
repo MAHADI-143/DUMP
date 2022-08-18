@@ -7,7 +7,7 @@
 
 `cd DUMP`
 
-`python FILE-DUMP.py`
+`python3 FILE-DUMP.py`
 
 ## TUTORIAL
 
