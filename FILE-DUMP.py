@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from DUMP import __login
+        from DUMP64 import __login
  
         __login()
  
