@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from DMP import login
+        from DUmP32 import login
  
  
         login()
