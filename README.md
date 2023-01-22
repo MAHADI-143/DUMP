@@ -11,4 +11,4 @@
 
 https://drive.google.com/file/d/1Jc0BWJVEvIKxhdZaEqGZpYeA9dZCWwLI/view?usp=drivesdk
 
-![Screenshot_20230122-125200_Termux](https://user-images.githubusercontent.com/79738922/213907972-253eb5d0-361b-43b8-9893-c750bf941cdb.jpg)
+![InShot_20230122_125848278](https://user-images.githubusercontent.com/79738922/213908010-6004cb00-4cef-40f0-b402-a197f7923f18.jpg)
