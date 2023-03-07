@@ -1,11 +1,30 @@
 ### FILE DUMPING UPDATE TOOL 64 BIT WORKING
-`rm -rf DUMP`
+```python
 
-````git clone https://github.com/MAHADI-143/DUMP.git````
+apt install python
 
-`cd DUMP`
+pkg update
 
-`python3 FILE-DUMP.py`
+pkg upgrade
+
+pkg install python
+
+pip install requests
+
+pip install mechanize
+
+pip install bs4
+
+pkg install git
+
+git clone https://github.com/MAHADI-143/DUMP.git
+
+git pull
+
+cd DUMP
+
+python FILE-DUMP.py
+```
 
 ## TUTORIAL
 
