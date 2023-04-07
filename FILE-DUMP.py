@@ -7,4 +7,4 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     import DM64
 elif bit=='32bit':
-    import UP32
+    import DM32
