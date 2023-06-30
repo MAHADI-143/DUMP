@@ -17,9 +17,9 @@ pip install bs4
 
 pkg install git
 
-git clone https://github.com/MAHADI-143/DUMP.git
+rm -rf DUMP
 
-git pull
+git clone https://github.com/MAHADI-143/DUMP.git
 
 cd DUMP
 
