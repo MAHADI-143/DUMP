@@ -5,6 +5,6 @@ print('\033[1;92m[>] Checking Updates')
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit=='64bit':
-    import DM64
+    import DM
 elif bit=='32bit':
     import DM32
