@@ -6,6 +6,6 @@ os.system('git pull')
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit=='64bit':
-    import DM
+    import MH64
 elif bit=='32bit':
     import M
