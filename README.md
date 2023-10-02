@@ -30,5 +30,5 @@ python FILE-DUMP.py
 
 https://drive.google.com/file/d/1Jc0BWJVEvIKxhdZaEqGZpYeA9dZCWwLI/view?usp=drivesdk
 
-![InShot_20230122_125848278](https://user-images.githubusercontent.com/79738922/213908010-6004cb00-4cef-40f0-b402-a197f7923f18.jpg)
+![InShot_20231003_012118653](https://github.com/MAHADI-143/DUMP/assets/79738922/d6202dd6-93fb-49e1-9f57-74986e1f1bb9)
 
