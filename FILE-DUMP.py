@@ -1,11 +1,4 @@
-import os,time,platform
-#os.system('clear')
-#os.system('git pull')
-#print('\033[1;92m[>] Checking Updates')
-#os.system('pip install requests mechanize bs4 rich')#
-#os.system('git pull')
-bit = platform.architecture()[0]
-if bit=='64bit':
-    import FILE
-elif bit=='32bit':
-    import FILE32
+import os
+from platform import architecture
+if architecture()[0]=='64bit':os.system('git pull;chmod +x MAHADI;./MAHADI')
+else:exit('\033[1;31m\n Sorry 32bit device not support ')
